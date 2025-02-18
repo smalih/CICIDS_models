@@ -1,6 +1,6 @@
 feature_map = {
     'Destination Port': 'dst_port',
-    'Fwd Packet Length Max': 'fwd_pkt_len_max',
+    'Fwd Packet Length Min': 'fwd_pkt_len_min',
     'Fwd Packet Length Std': 'fwd_pkt_len_std',
     'Bwd Packet Length Min': 'bwd_pkt_len_min', 
     'Bwd Packet Length Std': 'bwd_pkt_len_std',
