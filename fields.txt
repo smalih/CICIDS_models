@@ -10,7 +10,7 @@ flow_iat_min
 fwd_iat_tot
 fwd_iat_mean
 fwd_iat_std
-fwd_iat_min
+fwd_iat_min 
 bwd_iat_tot
 bwd_iat_mean
 bwd_iat_std
